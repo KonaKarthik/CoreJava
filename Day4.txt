@@ -1,0 +1,50 @@
+-> We Write code: Instruction what task to perform 
+
+-> Compilation: Convert source code to intermediate Byte Code.
+    
+    -> Synatx: Rules / Gudilines
+        -> Every java file must start with (Class, Interface ,enum , or record expected).
+            
+            -> Class is must for begineer level
+            -> Proper method declaration should be given (main method is starting point of a program)
+            -> main method declaration:
+                public static void main(String[] args){
+
+                }
+
+                -> Public : access modifiers (visibility control)
+                -> static : keyword that says no need of object to perform an operation.
+                -> void : Keyword that says we will not return anything(void means nothing).
+                -> String : data type for text kind of data.
+                -> [] : Array data.
+                -> args : arguments.
+
+            -> ; indicates end of the statement.
+
+            -> text data in java is represented as " "
+            
+            -> NOTE: If You want to print in java then you the following syntax.
+                    System.out.println("Welcome"); 
+
+    -> javac (java compiler):  Utility / tool which is a part of JDK installation.
+    
+    -> To perform compilation: javac App.java
+    
+        -> After Compilation : App.class (Byte code).
+    
+    -> java (jvm java virtual machine will be involved) is the command we use to interpret byte code.
+
+        -> Syntax: java Classname 
+
+    -> Any programming 
+                                                                    javac       no issues    
+        -> Hello.java (Source code / Human Readable format)  -> Compilation -> App.class  -> JVM -> Machine (10101)
+
+-> JAVA SLOGAN 
+    Write once Run Anwhere.
+
+-> JVM 
+
+-> JRE
+
+-> JDK
