@@ -1,0 +1,49 @@
+-> Variables: A variable is a name of memory(RAM) location.Which is used to store the data.
+
+    -> Variables allow you to 
+        > Assign data (value)
+        > Retrive data
+        > Manipulate the Data. (IF REQUIRED)
+
+    -> Syntax:
+        datatype variable_name =  value;
+
+->Datatype : Classification of the data (numbers , decimmals, text etc)
+->Variable_name : label (like box example) 
+-> = assign operator
+-> value : 100(price) , 3.5(rating) , "Nike"(brand)
+
+-> NOTE : // Used for the comments , this line will be ignored.
+
+-> Datatypes: Datatype inside java define what kind of value a variable can hold.
+    
+    -> Classification of Datatypes:
+        1)Primitive Datatypes: (Predefined)
+            > Most Basic Types of Data already prebuilt in java.
+
+            >Java has 8 predefined Datatypes    
+                1) byte : Stores integers from -128 to 127 [size : 1 Byte]
+                2) short : Stores integers from -32768 to 32767 [size : 2 Byte]
+                3) int :Stores integers from -2^31 to 2^31-1  [size : 4 Bytes]
+                        -2,147,483,648 to 2,147,483,647
+                4) long : Stores integers from -2^31 to 2^31-1  [size : 8 Bytes]
+                        -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+                5) float: Stores single precision decimal numbers [size :4 Bytes]
+                        1.5 ,3.5  10.0 etc
+                
+                6) double : Stores double precision decimal numbers [size : 8 Bytes]
+                        299792458.0000000 , 2.9979245876
+                
+                7) char : Stores single character [Size : 2 Bytes]
+                        'a'  'c'
+                8) Boolean : Stores either true or false [size : 1 Byte]
+                        true , false
+
+        2)Non-primitive / complex datatypes: (User defined)
+
+            > String : Complex Datatype (pre built)
+            > Arrays : Complex Datatype (pre built)
+            > Student : 
+
+
