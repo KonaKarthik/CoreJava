@@ -1,0 +1,44 @@
+1) Hardware specifications:
+    -> i5 /I3 PROCESSOR
+    -> 8gb RAM
+    -> 500gb HDD
+2) Softwares:
+    -> Install java Developmet Kit (JDK)  -- Runtime setup (Environment Setup)
+
+    -> IDE : Integrated Development Environment
+        -> Writing Code IDE
+        -> Visual Studio Code(VS Code)
+    
+    -> Version Control System (VCS)
+        -> Tracking Project Code (Web site files , progerams , docs etc)
+        
+        -> Git 
+            -> Git is a client software , i.e., Instaled in developers laptop.
+        
+        -> Github
+            ->Github is a platform offered as a service , to store source code.
+            
+            ->Every developer will create an account on github (github.com)
+            
+            ->Project : Repository (Remote repository)
+
+            ->Cloning : Make a identical copy 
+                -> A developer will clone the remote repository. 
+
+                -> Where we cloned ?
+                    -> In  side developer laptop to some path/location (downloads, desktop etc)
+                
+                -> Project : Repository In Laptop (Local Repository)
+
+                -> As a developer --> Task for building employee salary sorting.
+                    -> Start writing code inside local repository.
+                        -> Complex Apps (Lots of files i.e., Code)
+                            ->not working code(Working area)
+                            ->partially working code(Staging area)
+                            -> working code(Local Area)
+
+
+        -> Integrated Git , GitHub & VS Code
+  
+
+
