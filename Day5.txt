@@ -1,0 +1,19 @@
+1)JVM: JAVA VIRTUAL MACHINE
+
+    -> Virtual machine : Logical machine inside a physical machine
+    -> Role : Converts the Byte code to Machine code
+
+2)JRE: JAVA RUNTIME ENVIRONMENT
+
+    -> Runtime : Provides the required infrastructure to operate the programs.
+    -> JRE it includes the JVM
+    -> JRE is needed to run the java applications. (so no javac)
+    -> NOTE: End user needs the JRE to run the java application.
+
+3)JDK: JAVA DEVELOPMENT KIT
+  
+    -> JDK provides the tools needed for the Application Development. (jacac & java)
+    -> As a developer you'll be installing JDK.
+    -> JDK includes JRE also JVM as part of JRE.
+    -> JDK : Allows Developers to write code , compiler code & Run Code.
+
