@@ -1,0 +1,72 @@
+APPLICATION DEVELOPMENT
+
+    -> Backend  (Business Logics)
+
+    -> Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere meaning that compiled Java code can run on all platforms that support Java without the need to recompile.
+
+    ->Programming Language : Communicate with Computers (Machines)
+    
+    -> Human to Human : English , Hindi ,Telugu etc
+
+    -> Machines cannot  understand English , Hindi ,Telugu etc
+
+    -> Machines can understand Machine / Binary Language (010101010001)
+
+        -> 01101010 01100001 01110110 01100001 -->java
+
+        -> Low level language
+
+    -> Java is a high-level language (Application development)
+
+    -> Java is a general-purpose Language.
+
+    -> Used only for multiple purposes.
+
+        -> Java can i build desktop apps -> YES
+        -> Java can i build Web apps -> YES
+        -> Java can i build API's -> YES
+    
+    -> Domain specific Languages : Used only for specific Purposes.
+        -> SQL (Structured Query Language) is a domain-specific language used to manage data ,especially in a relational database management systems.
+
+            -> SQL can i build desktop apps -> NO 
+            -> SQL can i build Web apps -> NO
+            -> SQL can i build API's -> NO
+        
+-> Programming Paradigms
+
+    -> Paradigm: Way to solve to problem / structure.
+
+        -> Imperative : HOW TO DO (JAVA)
+        -> Declarative : WHAT TO DO (SQL)
+    
+    -> Compiled Languages: java
+        -> Best in performance (Speed of APP)
+
+        -> Enterprise
+        ->Banking (Finance)
+        -> Security (GOVT/ DEFENSE)
+
+    -> Interprated Languages : Python 
+
+        -> Low In Performance 
+
+            -> Data Science (AI / ML / DL)
+            -> Data Analytics
+            -> Scripting
+
+        -> Very good proto type language (Research)
+
+        -> Speed of development 
+
+-> ROADMAP
+
+    -> Core JAVA (lANGUAGE FUNDAMENTALS)
+
+        -> Frontend (HTML + CSS + JS + REACT)
+
+    -> ADVANCED JAVA - projects
+        -> Frameworks
+            -> collections Framework
+            -> Database (SQL + JDBC)
+            -> WEB APPS (Spring + SpringBoot)
