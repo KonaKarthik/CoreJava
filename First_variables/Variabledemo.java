@@ -1,3 +1,4 @@
+package First_variables;
 public class Variabledemo{
     public static void main(String[] args){
         int price = 1000;  

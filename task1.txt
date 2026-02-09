@@ -1,0 +1,27 @@
+Student Management System
+
+
+-> Store Student information
+    ID
+    NAME
+    AGE 
+    SCORES FOR QUIZ,ASSIGNMENT AND EXAM
+    ATTENDENCE PERCENTAGE  70 i.e., 71
+
+-> CALCULATE 
+    TOTAL SCORES
+    AVERAGE SCORES
+
+-> DETERMINE
+    -> Student passed or not(Passed means average score above 75)
+
+-> Simulate Daily Attendence 
+    -> Increase Attendece By one day.
+
+-> AWARDED 
+    -> AVERAGE SCORE 80 OR ABOVE 80
+    -> ATTENDENCE ABOVE 75
+     IF BOTH PASSED GIVE HIM/HER AWARD.
+
+-> Display all the results 
+    
