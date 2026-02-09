@@ -1,0 +1,77 @@
+------ Control Structures --------
+
+
+-> Install Extension : Extension pack for java.
+    
+    > Folder Structure can be achieved using packages.
+
+
+1)Control Structures / statements :
+    -> In java , control statements helps you control the flow of execution.
+    
+    ->Control structures Categories:
+
+        > Conditional statements (Decision making statements)
+            -> if statement: Runs block of code if the condition is true.
+
+                Syntax:
+                    if(condition){
+                        Statements
+                    }
+
+            -> if-else statement: Runs one block of code if condition is true, and run another block of code if condition is false.
+
+                Syntax:
+                    if(condition){
+                        Statements
+                    }
+                    else{
+                        Statements
+                    }
+
+                    ->NOTE : Ternary operator / Conditional operator , allows you to write concise form of if-else.
+
+                        -> Syntax: variable = (condition) ? value_if_true:value_if_false
+
+                        -> Use when assigning a value to variable based on condition.
+
+            -> else if ladder: Used when you have multiple conditions to check.
+                Syntax:
+                    if(condition){
+                        Statements
+                    }
+                    else if(condition){
+                        Statements
+                    }
+                    else if(condition){
+                        Statements
+                    }
+                    else if(condition){
+                        Statements
+                    }
+                    else{
+                        Statements
+                    }
+                 
+            -> Switch statement: alternative to if-else with multiple conditions. 
+
+                Syntax:
+                    switch(expression){
+                        case value1:
+                            //statements
+                            break;
+                        case value2:
+                            //statements
+                            break;
+                            '
+                            '
+                            '
+
+                        default:
+                            //Statements
+                            break;
+                    }
+        
+        > Looping statements (Iteration statements)
+
+        > Branching statements (Jump statements) 
