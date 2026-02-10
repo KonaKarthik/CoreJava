@@ -12,7 +12,7 @@ public class Datatypes{
         String name = "Karthikeya";
         String Wishes = "Happy diwali";
         byte time = 12 ;
-        int[] ids ={10,20,30,40,50};
+        //int[] ids ={10,20,30,40,50};
         System.out.println(byteval);
         System.out.println(shortval);
         System.out.println(intval);

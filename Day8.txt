@@ -1,0 +1,13 @@
+
+-> Scanner in java is part of java.util (common utilities) package(collectiion of related classes).
+
+-> Scanner class will help in reading inputs.
+
+-> Scanner class has inbuilt methods
+
+    -> nextInt() : reads integer values.
+    -> nextDouble() : reads decimal values.
+    -> next() : reads next word (String).
+    -> nextLine() : reads entire line(String).
+    -> etc
+    

@@ -73,5 +73,46 @@
                     }
         
         > Looping statements (Iteration statements)
+            
+            -> Looping statements are used to execute a block of code repeatedly, based on condition.
 
+            -> Repeatation, Automation etc.
+
+            -> Looping Types:
+                1) for loop : Used when you know number of iterations / repetations in advance.
+                    ->  
+                        Syntax:
+                            for(initialization ; condition ; increment/decrement){
+                                    statement
+                            }      
+                
+                
+                2) while loop:  Used when you don't know number of iterations / repetations in advance.
+                    ->
+                        Syntax:
+                            initialization
+                            while(condition){
+                                statements
+                                increament or decrement
+                            }
+                3) do while loop: similar to while, but runs the code at least once, before checking the condition.
+                    ->
+                        Syntax:
+                            initialization
+                            do{
+                                statement 
+                            }
+                            while(condition);
+
+                4) Nested loops: Loops inside loops
+
+                    -> Tabels : rows and columns;
+        
         > Branching statements (Jump statements) 
+
+            -> break: Used inside loops, to terminate (immediately exit).(already used in switch case)
+
+            -> continue: Used to skip current iteration.
+
+            -> return : Used to return a value.
+
