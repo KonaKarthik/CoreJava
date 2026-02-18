@@ -1,0 +1,140 @@
+-> OOPS 
+
+    -> Object Oriented Programming
+
+    -> OOPS: We structure programs using Data and Behaviour(Objects)
+
+    -> To work with OOPS Style we need an understanding of
+
+        -> classes
+
+        -> Objects
+
+        -> methods
+
+        -> Inheritance
+
+        -> Encapsulation
+
+        -> Abstraction
+
+        -> Polymorphism
+
+-> Any thing can in real world can be considered as Object
+
+    -> Laptop
+    -> TV
+    -> Phone
+    -> Pen 
+    -> etc
+
+-> Every Object has Data and Behaviour (Objects)
+
+    -> Laptop
+
+        -> Data (Characteristics)
+
+            -> Laptop Brand = string
+            -> Laptop Price = double
+            -> Laptop Weight = double / int
+            -> Laptop 4k Display = boolean
+            -> etc
+
+        -> Behaviour (Actions) (do)
+
+            ->Laptop can play video
+            ->Laptop can play audio
+            ->Laptop can read file
+            ->Laptop can take picture
+
+
+-> Class:
+
+    -> Class is a blueprint for creating Objects
+
+    -> Class will have what Data (Characteristics - variables) and Behaviour (actions - methods)
+
+    -> Laptop (Class)
+
+        -> Apple Object
+            -> Laptop Brand = Apple
+            -> Laptop Price = 100000
+            -> Laptop Weight = 1.2
+            -> Laptop 4k Display = true
+            -> etc
+
+            ->Apple Laptop can play video (4k)
+            ->Apple Laptop can play audio (25watts)
+            ->Apple Laptop can read file (in 2 sec)
+            ->Apple Laptop can take snap (12MP)
+
+        -> Dell Object
+            -> Laptop Brand = Dell
+            -> Laptop Price = 65000
+            -> Laptop Weight = 2.5
+            -> Laptop 4k Display = false
+            -> etc
+
+        -> Behaviour (Actions) (do)
+
+            ->Laptop can play video
+            ->Laptop can play audio
+            ->Laptop can read file
+            ->Laptop can take picture
+
+-> Methods 
+
+    -> Behaviour (actions)
+
+    -> A method is block of code that performs some task.
+
+-> variables
+
+    -> Repreents data (memory location)
+
+    -> Types of variables
+
+        -> Instance variables
+
+            -> Created inside the class and outside the methods without static keywords
+
+            -> Instance : Object of an classes
+
+            -> Instance Variables : Variables asociated with Objects
+
+            -> Memory is allocated when object is created
+
+            -> Can have default values, if not initialized
+
+            -> Stored in Heap Memory / Area 
+
+        -> Local variables
+
+            -> Created inside the methods and blocks / constructors
+
+            -> Used for temporary calculations
+
+            -> Once execution is completed, value become obsolete.(removed)
+
+            -> Variables should be declaread and initialized.
+
+        -> Static Variables(Global / Class)
+            
+            -> Created inside the class and outside the method, with static keywords
+
+            -> Static variables belongs to class not objects.
+
+            -> Used for static/fixed values (Common data)
+
+            -> Variables should be declared and initialized.
+
+            -> To access static variables we use Classname.variable
+
+
+TYPE        DECLARED            BELONGSTO           MEMORY       DEFAULTVALUE
+
+Local       methods/blocks      methods/blocks      Stack        Must initialized
+
+instance    class(no static)    object              Heap           yes
+
+static      class(static)       class               Methodarea      yes       

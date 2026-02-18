@@ -11,3 +11,36 @@
     -> nextLine() : reads entire line(String).
     -> etc
     
+
+----------->Task<--------------
+
+#Student Grade Tracker
+#Variable, Datatypes, Operators, Conditionals, loops
+
+-> Collect Following information from student.
+    -> Student ID.
+    -> Student Name.
+    -> Attendence.
+
+-> Ask student to input score
+
+    -> Repetedly ask student for marks (yes/no).
+    -> Based on scores given, calculate total marks.
+    -> calculate Average marks.
+
+->Based on average marks 
+    -> 85 and above ="A"
+    -> 75 and 84 ="B"
+    -> 74 and 60 ="C"
+    -> 59 and 35 ="D"
+    ->Below 35 ="FAIL"
+
+-> Attedence >= 75 also A then give him Award
+
+-> Print output
+
+    -> Student Name
+    -> Total score
+    -> Average score
+    -> Number of subjects / score
+    -> Award Status
